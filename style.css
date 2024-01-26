@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  background-image: url("https://images.ctfassets.net/hrltx12pl8hq/6TIZLa1AKeBel0yVO7ReIn/1fc0e2fd9fcc6d66b3cc733aa2547e11/weather-images.jpg?fit=fill&w=1200&h=630");
+  background-size: cover;
+}
+.head {
+  text-align: center;
+  color: beige;
+  font-weight: bold;
+}
+.middle {
+  text-align: center;
+
+  color: rgb(251, 248, 248);
+  font-weight: bold;
+}
+.bottom1 {
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+  border: 2px solid black;
+  width: 20vw;
+  display: none;
+  flex-direction: column;
+  margin: 20px;
+}
+.bottom2 {
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+  border: 2px solid black;
+  width: 20vw;
+  display: none;
+  flex-direction: column;
+  margin: 20px;
+}
+.button-1 {
+  padding: 10px;
+}
+.button-1:hover {
+  color: red;
+  background-color: greenyellow;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+.heading-1 {
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding-top: 20px;
+  display: none;
+}
