@@ -3,3 +3,5 @@ This is Air Quality Checker
 I used API from RapidAPI website
 
 To work with this application you need to signin into rapidAPI and you need to use your own token key in index.js file.
+
+link : https://rapidapi.com/weatherbit/api/air-quality
